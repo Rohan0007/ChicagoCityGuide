@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Chicago City Guide</string>
+    
+    <!-- Strings for Dining Activity -->
+    <string name="parsons">The sprawling patio at the Logan Square restaurant is the place to be,
+        and there are light-wood picnic tables, striped umbrellas, strings of lights, spindly trees
+        and ping-pong tables.</string>
+    <string name="dawson">The huge patio, with a bar, tables, greenery and high walls, makes you
+        feel like you’re far away from the busy corner next to the Grand Blue Line stop. Order up
+        dinner, then stay for cocktails.</string>
+    <string name="irazu">Never tried Costa Rican food? This spot is simple, authentic, cheap,
+        supercasual, friendly—and all about the outdoor patio. Try the steak-and-beans “pepito”
+        sandwich and sweet plantains.</string>
+    <string name="boka">The terrace at Boka is nice and secluded, and we really can\'t get enough of
+        the food chef Lee Wolen cooks. For an upscale alfresco date, this is the restaurant you
+        should head to.</string>
+    <string name="portillos">The second location of the hot dog chain in the city serves up the
+        same dishes you\'ve come to know and love at Portillo\'s. Stop by for a quick lunch or a
+        shake.</string>
+    <string name="sportsmans">Sportsman\'s backyard has a fire pit, large tables and a canopy of
+        twinkly lights. An in-house herb garden provides the bartenders with fresh
+        ingredients.</string>
+    <string name="kaiser">The specialty here is the Bacon Bomb, a 5-pound, bacon-covered meatloaf
+        made with beef, pork and more bacon. Kaiser Tiger also features beer and sausage on its
+        menu.</string>
+    <string name="homestead">Given a gorgeous roof deck above their pizzeria, Roots, Greg Mohr and
+        Scott Weiner open what they’ve called “a literal farm-to-table restaurant”. The patio seats
+        80.</string>
+    
+    <!-- Strings for Attractions Activity -->
+    <string name="millennium">This 24.5-acre park might be one of the most popular gathering spots
+        in the city, known for its free concerts, famous public art installations and its proximity
+        to the Loop.</string>
+    <string name="second_city">Even if you know nothing about improv, chances are you\'ve heard of
+        Second City. This is the place that put both sketch and improvised comedy on the
+        map.</string>
+    <string name="wrigley">Even when the Cubs aren\'t playing baseball, there\’s plenty to do at
+        this legendary stadium in Wrigleyville. Fans can tour the Friendly Confines and explore the
+        Park at Wrigley.</string>
+    <string name="lincoln">See some 1,200 animals—from apes to zebras to flamingos—at one of the
+        last free zoos in the country. The 35-acre attraction connects visitors with animals from
+        all over the world.</string>
+    <string name="riverwalk">If you\'re looking for breathtaking views of some of Chicago\'s most
+        gorgeous architecture, take a stroll along the Riverwalk, which hugs the main branch of the
+        Chicago River.</string>
+    <string name="aquarium">Anchoring the aquatic offerings at this Chicago institution are enduring
+        favorites such as piranhas, frogs and snakes of the Amazon, rays, turtles and moray eel of
+        the Caribbean, and more.</string>
+    <string name="planetarium">You\'ll have to travel to the outermost tip of Museum Campus to visit
+        the Adler Planetarium, but the journey seems appropriate considering this institution\'s
+        focus on out of this world experiences.</string>
+    <string name="skydeck">This 1973 landmark occupies two city blocks and stretches 1,454 feet
+        high, making it the second tallest building in the U.S. Skydeck views from the 103rd floor
+        allow you to see as far as 50 miles out.</string>
+    <string name="cultural_center">Made up of 30,000 individual panes of glass, the dome was
+        renovated in 2008 to allow the dizzying display to once again be lit with natural
+        light.</string>
+
+    <!-- Strings for Neighborhoods Activity -->
+    <string name="irving">Once a railroad depot, Irving Park is still easy to reach by train (if
+        you\'re taking the Blue Line) and boasts an array of dive bars and coffee shops that are
+        worth searching out.</string>
+    <string name="roscoe">While it\'s technically part of the North Center community area, Roscoe 
+        Village has an identity that\'s all its own thanks to the vibrant community of local 
+        restaurants and shops.</string>
+    <string name="edgewater">Situated, as its name suggests, on the shores of Lake Michigan, 
+        Edgewater is home to beaches, churches and towering reminders of the neighborhood\'s 
+        past.</string>
+    <string name="avondale">Avondale is a neighborhood that has historically boasted a large Polish 
+        population, which is still represented by the Eastern European restaurants and shops that 
+        stretch on Milwaukee Avenue.</string>
+    <string name="midway">The neighborhoods surrounding Chicago\'s second-busiest airport are more
+        than just flyover territory — they\'re filled with amazing culture, food and more stuff that
+        you\'ll definitely want to check out.</string>
+
+    <!-- Strings for AirBnB Activity -->
+    <string name="sunny">Appropriately dubbed the \"Outdoor Oasis,\" this home\'s 1,000-square-foot
+        deck and patio overshadow any of its indoor amenities (and those are pretty spectacular,
+        too).</string>
+    <string name="instagram">This light-filled minimalistic apartment features polished wood floors,
+        indoor plants and all-white decor. The back door opens to a lush yard with a hammock,
+        firepit and grill.</string>
+    <string name="hipster">This gorgeous home is made for artists looking for a healing hiatus. Make
+        the vintage art your muse and detox in the underground in-home sauna at this
+        photographer-owned abode.</string>
+    <string name="artsy">This century-old Chicago greystone is owned by an artist. Situated in the
+        heart of Uptown\'s entertainment district, the space is filled with contemporary art and
+        complex interior design.</string>
+    <string name="playful">Owned by a local photographer, the apartment sleeps two to eight with a
+        lofted bedroom, indoor hammock and two extra beds, plus a few couches.The projector and pool
+        table are added perks.</string>
+
+    <!-- Strings for Hotels Activity -->
+    <string name="athletic">The gorgeously restored and revamped hotel, opened in 2015, boasts 241
+        luxury boutique rooms—throwbacks to the club rooms of athletic associations long
+        gone.</string>
+    <string name="palmer">The opulent Beaux Arts lobby showcases museum-worthy frescoes and displays
+        a mural by 19th-century artist Louis Pierre Rigal.</string>
+    <string name="virgin">This is a dream hotel for people into design and technology: with an app
+        to control the room temperature, a pour-over coffee setup in each room and a Tesla to give
+        free rides to guests.</string>
+    <string name="blackstone">It\'s simply one of the most beautiful hotels in the Loop and a
+        favorite for bands playing at the nearby Lollapalooza music festival in August.</string>
+    <string name="marriott">The lobby of this luxury Loop hotel is a stunner—all black and white
+        marble and dramatic, curving staircases. The rooms are just as gorgeous, and the spa, Valeo,
+        is a must-visit.</string>
+    <string name="hard_rock">With Beatles in the bathrooms and Madonna in the corridors, there\'s
+        little doubt about this hotel\'s theme, occupying the beautiful 40-story Carbide and Carbon
+        Building.</string>
+    <string name="london_house">Sitting on Michigan Avenue and the Chicago River, the historic
+        landmark building is now part beautiful hotel and part high-end restaurant, featuring
+        Chicago\'s only tri-level rooftop bar.</string>
+    <string name="kimpton">In a nod to the surrounding neighborhood\'s legacy as a major national
+        financial engine, rooms take a cue from men\'s tailoring, a conceit realized in details like
+        wallpaper resembling gray suiting.</string>
+
+    <!-- Strings for Museums Activity -->
+    <string name="art_institute">Guarded by an iconic pair of bronze lions, the Art Institute of
+        Chicago houses a permanent collection of more than 300,000 artworks, displayed in a
+        complex of galleries and halls.</string>
+    <string name="field">Founded to house the biological and anthropological collections
+        for the World\'s Columbian Exposition of 1893, this museum is still one of
+        Chicago\'s most beloved institutions.</string>
+    <string name="science">Interactivity is the name of the game at the Museum of Science and
+        Industry, which is spreads throughout a building that was originally built for
+        the 1893 World\'s Columbian Exposition.</string>
+    <string name="history">Not so long ago this vibrant museum was the stodgy ol\' Chicago
+        Historical Society, which let you cull through thousands of archived photographs and
+        curio.</string>
+</resources>

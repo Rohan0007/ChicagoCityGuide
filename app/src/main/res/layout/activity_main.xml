@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.chicagocityguide.MainActivity">
+
+    <ImageView
+        android:id="@+id/wall"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:padding="1dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/wall1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:orientation="vertical">
+
+        <!-- Main Menu items start from here -->
+        <LinearLayout style="@style/MainMenu_LinearLayout">
+
+            <FrameLayout style="@style/MainMenu_FrameLayout">
+
+                <RelativeLayout
+                    android:id="@+id/dine_n_drink"
+                    style="@style/MainMenu_RelativeLayout">
+
+                    <ImageView
+                        style="@style/MainMenu_ImageLayout"
+                        android:src="@drawable/dine_n_drink" />
+
+                    <TextView
+                        style="@style/MainMenu_TextView"
+                        android:text="Dine n Drink" />
+                </RelativeLayout>
+
+            </FrameLayout>
+
+            <FrameLayout style="@style/MainMenu_FrameLayout">
+
+                <RelativeLayout
+                    android:id="@+id/famous_attractions"
+                    style="@style/MainMenu_RelativeLayout">
+
+                    <ImageView
+                        style="@style/MainMenu_ImageLayout"
+                        android:src="@drawable/famous_attractions" />
+
+                    <TextView
+                        style="@style/MainMenu_TextView"
+                        android:text="Famous Attractions" />
+                </RelativeLayout>
+
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout style="@style/MainMenu_LinearLayout">
+
+            <FrameLayout style="@style/MainMenu_FrameLayout">
+
+                <RelativeLayout
+                    android:id="@+id/neighborhoods"
+                    style="@style/MainMenu_RelativeLayout">
+
+                    <ImageView
+                        style="@style/MainMenu_ImageLayout"
+                        android:src="@drawable/neighborhoods" />
+
+                    <TextView
+                        style="@style/MainMenu_TextView"
+                        android:text="Neighborhoods" />
+                </RelativeLayout>
+
+            </FrameLayout>
+
+            <FrameLayout style="@style/MainMenu_FrameLayout">
+
+                <RelativeLayout
+                    android:id="@+id/museums"
+                    style="@style/MainMenu_RelativeLayout">
+
+                    <ImageView
+                        style="@style/MainMenu_ImageLayout"
+                        android:src="@drawable/museums" />
+
+                    <TextView
+                        style="@style/MainMenu_TextView"
+                        android:text="Museums" />
+                </RelativeLayout>
+
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout style="@style/MainMenu_LinearLayout">
+
+            <FrameLayout style="@style/MainMenu_FrameLayout">
+
+                <RelativeLayout
+                    android:id="@+id/popular_hotels"
+                    style="@style/MainMenu_RelativeLayout">
+
+                    <ImageView
+                        style="@style/MainMenu_ImageLayout"
+                        android:src="@drawable/popular_hotels" />
+
+                    <TextView
+                        style="@style/MainMenu_TextView"
+                        android:text="Popular Hotels" />
+                </RelativeLayout>
+
+            </FrameLayout>
+
+            <FrameLayout style="@style/MainMenu_FrameLayout">
+
+                <RelativeLayout
+                    android:id="@+id/airbnb_rentals"
+                    style="@style/MainMenu_RelativeLayout">
+
+                    <ImageView
+                        style="@style/MainMenu_ImageLayout"
+                        android:src="@drawable/airbnb_rentals" />
+
+                    <TextView
+                        style="@style/MainMenu_TextView"
+                        android:text="Cool AirBnb Rentals" />
+                </RelativeLayout>
+
+            </FrameLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
