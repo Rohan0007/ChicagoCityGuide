@@ -1,7 +1,25 @@
 <resources>
     <string name="app_name">Chicago City Guide</string>
-    
+
+    <!-- Strings for activity_main.xml -->
+    <string name="main_title1">Dine n Drink</string>
+    <string name="main_title2">Famous Attractions</string>
+    <string name="main_title3">Neighborhoods</string>
+    <string name="main_title4">Museums</string>
+    <string name="main_title5">Popular Hotels</string>
+    <string name="main_title6">Cool AirBnb Rentals</string>
+    <string name="main_title7">CONTINUE TO GUIDE</string>
+
     <!-- Strings for Dining Activity -->
+    <string name="dining_title1">Parson\'s Chicken And Fish</string>
+    <string name="dining_title2">The Dawson</string>
+    <string name="dining_title3">Irazu</string>
+    <string name="dining_title4">Boka</string>
+    <string name="dining_title5">Portillo\'s</string>
+    <string name="dining_title6">Sportsman\'s Club</string>
+    <string name="dining_title7">Kaiser Tiger</string>
+    <string name="dining_title8">Homestead</string>
+
     <string name="parsons">The sprawling patio at the Logan Square restaurant is the place to be,
         and there are light-wood picnic tables, striped umbrellas, strings of lights, spindly trees
         and ping-pong tables.</string>
@@ -26,8 +44,18 @@
     <string name="homestead">Given a gorgeous roof deck above their pizzeria, Roots, Greg Mohr and
         Scott Weiner open what they’ve called “a literal farm-to-table restaurant”. The patio seats
         80.</string>
-    
+
     <!-- Strings for Attractions Activity -->
+    <string name="attractions_title1">Millennium Park</string>
+    <string name="attractions_title2">The Second City</string>
+    <string name="attractions_title3">Wrigley Field</string>
+    <string name="attractions_title4">Lincoln Park Zoo</string>
+    <string name="attractions_title5">Chicago Riverwalk</string>
+    <string name="attractions_title6">Shedd Aquarium</string>
+    <string name="attractions_title7">Adler Planetarium</string>
+    <string name="attractions_title8">Willis Tower Skydeck</string>
+    <string name="attractions_title9">Chicago Cultural Center</string>
+
     <string name="millennium">This 24.5-acre park might be one of the most popular gathering spots
         in the city, known for its free concerts, famous public art installations and its proximity
         to the Loop.</string>
@@ -57,6 +85,12 @@
         light.</string>
 
     <!-- Strings for Neighborhoods Activity -->
+    <string name="neighborhoods_title1">Irving Park</string>
+    <string name="neighborhoods_title2">Edgewater</string>
+    <string name="neighborhoods_title3">Avondale</string>
+    <string name="neighborhoods_title4">Midway Area</string>
+    <string name="neighborhoods_title5">Roscoe Village</string>
+
     <string name="irving">Once a railroad depot, Irving Park is still easy to reach by train (if
         you\'re taking the Blue Line) and boasts an array of dive bars and coffee shops that are
         worth searching out.</string>
@@ -73,7 +107,13 @@
         than just flyover territory — they\'re filled with amazing culture, food and more stuff that
         you\'ll definitely want to check out.</string>
 
-    <!-- Strings for AirBnB Activity -->
+    <!-- Strings for AirBnB Fragment -->
+    <string name="airbnb_title1">Sunny Stunner</string>
+    <string name="airbnb_title2">Instagram IRL</string>
+    <string name="airbnb_title3">Hipster Paradise</string>
+    <string name="airbnb_title4">Artsy Abode</string>
+    <string name="airbnb_title5">Playful Loft</string>
+
     <string name="sunny">Appropriately dubbed the \"Outdoor Oasis,\" this home\'s 1,000-square-foot
         deck and patio overshadow any of its indoor amenities (and those are pretty spectacular,
         too).</string>
@@ -91,6 +131,15 @@
         table are added perks.</string>
 
     <!-- Strings for Hotels Activity -->
+    <string name="hotels_title1">Chicago Athletic Association</string>
+    <string name="hotels_title2">Palmer House Hilton</string>
+    <string name="hotels_title3">Virgin Hotels Chicago</string>
+    <string name="hotels_title4">The Blackstone</string>
+    <string name="hotels_title5">JW Marriott</string>
+    <string name="hotels_title6">Hard Rock Hotel</string>
+    <string name="hotels_title7">LondonHouse Chicago</string>
+    <string name="hotels_title8">The Kimpton Gray Hotel</string>
+
     <string name="athletic">The gorgeously restored and revamped hotel, opened in 2015, boasts 241
         luxury boutique rooms—throwbacks to the club rooms of athletic associations long
         gone.</string>
@@ -115,6 +164,11 @@
         wallpaper resembling gray suiting.</string>
 
     <!-- Strings for Museums Activity -->
+    <string name="museums_title1">Art Institute of Chicago</string>
+    <string name="museums_title2">The Field Museum</string>
+    <string name="museums_title3">Museum of Science and Industry</string>
+    <string name="museums_title4">Chicago History Museum</string>
+
     <string name="art_institute">Guarded by an iconic pair of bronze lions, the Art Institute of
         Chicago houses a permanent collection of more than 300,000 artworks, displayed in a
         complex of galleries and halls.</string>
@@ -127,4 +181,15 @@
     <string name="history">Not so long ago this vibrant museum was the stodgy ol\' Chicago
         Historical Society, which let you cull through thousands of archived photographs and
         curio.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Fragment names -->
+    <string name="category_dining">Dine n Drink</string>
+    <string name="category_airbnb">Cool AirBnB Rentals</string>
+    <string name="category_attractions">Famous Attractions</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_hotels">Popular Hotels</string>
+    <string name="category_neighborhoods">Neighborhoods</string>
 </resources>

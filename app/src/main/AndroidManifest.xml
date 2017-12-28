@@ -18,28 +18,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DiningActivity"
+            android:name=".FragmentsActivity"
             android:screenOrientation="portrait"
-            android:label="Dine n Drink" />
-        <activity
-            android:name=".AttractionsActivity"
-            android:screenOrientation="portrait"
-            android:label="Famous Attractions" />
-        <activity
-            android:name=".NeighborhoodsActivity"
-            android:screenOrientation="portrait"
-            android:label="Neighborhoods" />
-        <activity
-            android:name=".MuseumsActivity"
-            android:screenOrientation="portrait"
-            android:label="Museums" />
-        <activity
-            android:name=".HotelsActivity"
-            android:screenOrientation="portrait"
-            android:label="Popular Hotels" />
-        <activity
-            android:name=".AirBnBActivity"
-            android:screenOrientation="portrait"
-            android:label="Cool AirBnB Rentals" />
+            android:label="Chicago City Guide" />
     </application>
 </manifest>

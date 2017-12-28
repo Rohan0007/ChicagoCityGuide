@@ -25,9 +25,9 @@ public class Info {
      * @param descriptionID is the desription ID of the item inputted
      * @param imageID is the image resource ID for the image
      */
-    public Info(String title, int descriptionID, int imageID, Context context){
-        mTitle = title;
+    public Info(int titleID, int descriptionID, int imageID, Context context){
         mContext = context;
+        mTitle = mContext.getString(titleID);
         mDescription = mContext.getString(descriptionID);
         mImageID = imageID;
     }

@@ -8,10 +8,9 @@
     tools:context="com.example.android.chicagocityguide.MainActivity">
 
     <ImageView
-        android:id="@+id/wall"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="0.5"
+        android:layout_weight="1"
         android:padding="1dp"
         android:scaleType="fitXY"
         android:src="@drawable/wall1" />
@@ -19,7 +18,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="0.5"
+        android:layout_weight="1"
         android:orientation="vertical">
 
         <!-- Main Menu items start from here -->
@@ -28,7 +27,6 @@
             <FrameLayout style="@style/MainMenu_FrameLayout">
 
                 <RelativeLayout
-                    android:id="@+id/dine_n_drink"
                     style="@style/MainMenu_RelativeLayout">
 
                     <ImageView
@@ -37,7 +35,7 @@
 
                     <TextView
                         style="@style/MainMenu_TextView"
-                        android:text="Dine n Drink" />
+                        android:text="@string/main_title1" />
                 </RelativeLayout>
 
             </FrameLayout>
@@ -45,7 +43,6 @@
             <FrameLayout style="@style/MainMenu_FrameLayout">
 
                 <RelativeLayout
-                    android:id="@+id/famous_attractions"
                     style="@style/MainMenu_RelativeLayout">
 
                     <ImageView
@@ -54,7 +51,7 @@
 
                     <TextView
                         style="@style/MainMenu_TextView"
-                        android:text="Famous Attractions" />
+                        android:text="@string/main_title2" />
                 </RelativeLayout>
 
             </FrameLayout>
@@ -65,7 +62,6 @@
             <FrameLayout style="@style/MainMenu_FrameLayout">
 
                 <RelativeLayout
-                    android:id="@+id/neighborhoods"
                     style="@style/MainMenu_RelativeLayout">
 
                     <ImageView
@@ -74,7 +70,7 @@
 
                     <TextView
                         style="@style/MainMenu_TextView"
-                        android:text="Neighborhoods" />
+                        android:text="@string/main_title3" />
                 </RelativeLayout>
 
             </FrameLayout>
@@ -82,7 +78,6 @@
             <FrameLayout style="@style/MainMenu_FrameLayout">
 
                 <RelativeLayout
-                    android:id="@+id/museums"
                     style="@style/MainMenu_RelativeLayout">
 
                     <ImageView
@@ -91,7 +86,7 @@
 
                     <TextView
                         style="@style/MainMenu_TextView"
-                        android:text="Museums" />
+                        android:text="@string/main_title4" />
                 </RelativeLayout>
 
             </FrameLayout>
@@ -102,7 +97,6 @@
             <FrameLayout style="@style/MainMenu_FrameLayout">
 
                 <RelativeLayout
-                    android:id="@+id/popular_hotels"
                     style="@style/MainMenu_RelativeLayout">
 
                     <ImageView
@@ -111,7 +105,7 @@
 
                     <TextView
                         style="@style/MainMenu_TextView"
-                        android:text="Popular Hotels" />
+                        android:text="@string/main_title5" />
                 </RelativeLayout>
 
             </FrameLayout>
@@ -119,7 +113,6 @@
             <FrameLayout style="@style/MainMenu_FrameLayout">
 
                 <RelativeLayout
-                    android:id="@+id/airbnb_rentals"
                     style="@style/MainMenu_RelativeLayout">
 
                     <ImageView
@@ -128,10 +121,22 @@
 
                     <TextView
                         style="@style/MainMenu_TextView"
-                        android:text="Cool AirBnb Rentals" />
+                        android:text="@string/main_title6" />
                 </RelativeLayout>
 
             </FrameLayout>
         </LinearLayout>
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/continue_button"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2"
+        android:text="@string/main_title7"
+        android:background="#616161"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:gravity="center"/>
 </LinearLayout>
